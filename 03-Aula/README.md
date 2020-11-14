@@ -547,6 +547,15 @@ const usuarioID = 'id-xpto6';
 console.log(usuarios[usuarioID]);
 ```
 
+## Estado
+
+Dando uma pincelada em algo crucial em desenvolvimento de web apps.
+
+Gerenciamento de estado é uma das camadas para desenvolver aplicações web, porém, a única informação aqui é que um estado basicamente é uma composição de objetos, array e outros tipos no JavaScript.
+
+Você mantém toda a estrutura da informação que precisa armazenado nesses tipos, por isso é muito importante saber trabalhar com eles, saber utilizar as funções mencionadas acima e também sobre normalização de dados.
+
+Aqui é só mais um ponto de atenção para reforçar a importância desse tópico.
 
 ## Renderização
 Retornemos as camadas inicias de desenvolvimento front-end
